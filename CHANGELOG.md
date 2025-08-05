@@ -1,3 +1,7 @@
+## 0.1.1
+
+Android SDK 最低要求修改为 23
+
 ## 0.1.0
 
 Use "LatLng" from "latlong2" dependency in public apis.
